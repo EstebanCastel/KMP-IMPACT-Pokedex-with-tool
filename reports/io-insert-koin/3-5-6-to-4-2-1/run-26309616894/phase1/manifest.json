@@ -1,0 +1,26 @@
+{
+  "before_dir": "/tmp/output/phase1/before",
+  "after_dir": "/tmp/output/phase1/after",
+  "version_change": {
+    "dependency_group": "io.insert-koin",
+    "version_key": "koin",
+    "before": "3.5.6",
+    "after": "4.2.1"
+  },
+  "init_script_injected": false,
+  "detekt_reports": {},
+  "kover_reports": {
+    "desktop": "/tmp/output/phase1/before/desktop/build/reports/kover/report.xml",
+    "android": "/tmp/output/phase1/before/android/build/reports/kover/report.xml"
+  },
+  "compilation_after": {
+    "status": "success",
+    "errors": [],
+    "tasks": [
+      "desktop:compileKotlinMetadata",
+      "shared:compileKotlinIosArm64",
+      "shared:compileKotlinMetadata"
+    ]
+  },
+  "compile_targets": {}
+}

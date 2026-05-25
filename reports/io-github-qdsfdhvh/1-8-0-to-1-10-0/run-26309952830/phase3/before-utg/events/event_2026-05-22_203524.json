@@ -1,0 +1,11 @@
+{
+  "tag": "2026-05-22_203524",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "intent": "am start com.mocoding.pokedex.android/com.mocoding.pokedex.android.MainActivity"
+  },
+  "start_state": "052812ac517ede05d7cb4f98a078dbb4",
+  "stop_state": "242f12e0868276702e8f644f30f44956",
+  "event_str": "IntentEvent(intent='am start com.mocoding.pokedex.android/com.mocoding.pokedex.android.MainActivity')"
+}

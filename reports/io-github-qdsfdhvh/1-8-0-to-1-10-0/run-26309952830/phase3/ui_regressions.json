@@ -1,0 +1,31 @@
+{
+  "status": "completed",
+  "blocked_reason": "",
+  "before_screens": [
+    "QuickstepLauncher",
+    "Main",
+    "Main #2",
+    "Main #3",
+    "Main #4"
+  ],
+  "after_screens": [
+    "QuickstepLauncher",
+    "Main",
+    "Main #2",
+    "Main #3",
+    "Main #4"
+  ],
+  "diffs": [],
+  "activity_coverage_before": {
+    ".uioverrides.QuickstepLauncher": 1,
+    ".MainActivity": 6
+  },
+  "activity_coverage_after": {
+    ".uioverrides.QuickstepLauncher": 1,
+    ".MainActivity": 6
+  },
+  "nodes_before": 7,
+  "nodes_after": 7,
+  "structures_before": 5,
+  "structures_after": 5
+}
